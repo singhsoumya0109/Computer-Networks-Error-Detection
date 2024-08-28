@@ -1,4 +1,4 @@
-# DataFrame-Error-Detection
+# Computer-Networks-Error-Detection
 
 This repository contains a Python implementation of a sender-receiver program that transfers data frames and checks for errors using checksum and Cyclic Redundancy Check (CRC) techniques. The program also includes error injection methods to simulate different types of transmission errors.
 
